@@ -85,7 +85,3 @@ Contributions, issues, and feature requests are welcome! Feel free to submit a p
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
-
----
-
-This `README` gives a clear overview of the project, how to install and run it, and also invites contributions. You can customize it further to fit your specific project details.
