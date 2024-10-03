@@ -77,14 +77,6 @@ BMI = weight (kg) / [height (m)]^2
 
 Where height is converted from feet and inches into meters.
 
-### File Structure
-
-```
-|-- app.R              # Main file that runs the Shiny app
-|-- www/               # Contains static files (e.g., images, CSS)
-|-- README.md          # This readme file
-|-- LICENSE            # License for the project
-```
 
 ## Contributing
 
